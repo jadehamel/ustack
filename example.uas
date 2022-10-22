@@ -10,4 +10,4 @@ title: "Home"
 %data = [1,2,3,4]
 table=loop("<table>",data,"</table>")
 
-{loop}(begin,item,end)LOOP(begin,items,end)
+{loop}(begin,items,end)LOOP(begin,items,end)
