@@ -1,0 +1,13 @@
+### UStack Programming Language ###
+### 100% Frontend SaSS          ###
+
+#example: 
+
+SECURE_HTTP
+document
+title: "Home"
+
+%data = [1,2,3,4]
+table=loop("<table>",data,"</table>")
+
+{loop}(begin,item,end)LOOP(begin,items,end)
